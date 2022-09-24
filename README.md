@@ -4,4 +4,4 @@ Para usar esto en Linux, tienes que descargar yt-dlp con tu gestor de repositori
  - Ubuntu: sudo apt-get install yt-dlp
  - Arch Linux: sudo pacman -S yt-dlp
 
- Para ejecutarlo simplemente pon python musiquita.py &lturl$gt
+ Para ejecutarlo simplemente pon python musiquita.py &lt url $gt
